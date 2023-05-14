@@ -1,0 +1,14 @@
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\bin\Debug\LavernaWeatherApplication.exe.config
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\bin\Debug\LavernaWeatherApplication.exe
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\bin\Debug\LavernaWeatherApplication.pdb
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.csproj.AssemblyReference.cache
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.Form1.resources
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.Properties.Resources.resources
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.csproj.GenerateResource.cache
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.csproj.CoreCompileInputs.cache
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.csproj.CopyComplete
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.exe
+C:\Users\Eldarka\source\repos\LavernaWeatherApplication\LavernaWeatherApplication\obj\Debug\LavernaWeatherApplication.pdb
